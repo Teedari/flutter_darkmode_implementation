@@ -9,9 +9,8 @@ Required packages:
 - shared_preference --> https://pub.dev/packages/shared_preferences
 - provider --> https://pub.dev/packages/provider
 
+-----------------------------------------------------------
 
-Step 1:Create a class and extend it to ChangeNotifier Class
-Class CustomTheme with ChangeNotifier{}
 
 
 
